@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Results &#8211; Anugraha</title>
+	<atom:link href="https://nihalybaig.github.io/AnugrahaWP/category/results/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<description>Value Based Education</description>
+	<lastBuildDate>Fri, 15 Apr 2016 21:18:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://nihalybaig.github.io/AnugrahaWP/wp-content/uploads/2019/11/favicon.ico</url>
+	<title>Results &#8211; Anugraha</title>
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PUC Ist batch result announced</title>
+		<link>https://nihalybaig.github.io/AnugrahaWP/2016/04/15/ipuc-results-2013/</link>
+				<comments>https://nihalybaig.github.io/AnugrahaWP/2016/04/15/ipuc-results-2013/#respond</comments>
+				<pubDate>Fri, 15 Apr 2016 21:18:22 +0000</pubDate>
+		<dc:creator><![CDATA[nabil89]]></dc:creator>
+				<category><![CDATA[Results]]></category>
+		<category><![CDATA[Ist PUC]]></category>
+
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
+				<description><![CDATA[1st batch of PUC results marked excellence in performance. Out of 45 students, Menaz Parveen secured distinction marks 522 ( 87%), 34 &#8211; First Class, 8 &#8211; Second class, 1 Pass class. The results have shown dedicated service rendered by lecturers and disciplined effort by the students. A Felicitation function was held on 15th May [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>1st batch of PUC results marked excellence in performance. Out of 45 students, Menaz Parveen secured distinction marks 522 ( 87%), 34 &#8211; First Class, 8 &#8211; Second class, 1 Pass class. The results have shown dedicated service rendered by lecturers and disciplined effort by the students. A Felicitation function was held on 15th May 2013 for honouring students and staff.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://nihalybaig.github.io/AnugrahaWP/2016/04/15/ipuc-results-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

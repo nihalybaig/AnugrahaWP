@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UG Programmes &#8211; Anugraha</title>
+	<atom:link href="https://nihalybaig.github.io/AnugrahaWP/tag/ug-programmes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<description>Value Based Education</description>
+	<lastBuildDate>Fri, 15 Nov 2019 18:11:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://nihalybaig.github.io/AnugrahaWP/wp-content/uploads/2019/11/favicon.ico</url>
+	<title>UG Programmes &#8211; Anugraha</title>
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UG Programmes</title>
+		<link>https://nihalybaig.github.io/AnugrahaWP/2019/11/15/ug-programmes/</link>
+				<comments>https://nihalybaig.github.io/AnugrahaWP/2019/11/15/ug-programmes/#respond</comments>
+				<pubDate>Fri, 15 Nov 2019 18:05:19 +0000</pubDate>
+		<dc:creator><![CDATA[nihalybaig]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[UG Programmes]]></category>
+
+		<guid isPermaLink="false">https://nihalybaig.github.io/AnugrahaWP/?p=343</guid>
+				<description><![CDATA[B.Com Commerce Maths B.A History English]]></description>
+								<content:encoded><![CDATA[
+<ul><li>B.Com<ul><li>Commerce</li><li>Maths</li></ul></li><li>B.A<ul><li>History</li><li>English</li></ul></li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+							<wfw:commentRss>https://nihalybaig.github.io/AnugrahaWP/2019/11/15/ug-programmes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

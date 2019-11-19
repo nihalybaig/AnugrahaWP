@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Foundation Day &#8211; Anugraha</title>
+	<atom:link href="https://nihalybaig.github.io/AnugrahaWP/tag/foundation-day/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<description>Value Based Education</description>
+	<lastBuildDate>Tue, 19 Nov 2019 20:24:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://nihalybaig.github.io/AnugrahaWP/wp-content/uploads/2019/11/favicon.ico</url>
+	<title>Foundation Day &#8211; Anugraha</title>
+	<link>https://nihalybaig.github.io/AnugrahaWP</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Degree College Foundation Laying Ceremony</title>
+		<link>https://nihalybaig.github.io/AnugrahaWP/2016/04/15/duis-sagitis-ipsum-prasent-2/</link>
+				<pubDate>Fri, 15 Apr 2016 21:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[nabil89]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Annual Day]]></category>
+		<category><![CDATA[Celebration]]></category>
+		<category><![CDATA[Foundation Day]]></category>
+
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/tortor-neque-adpiscing-diam-copy/</guid>
+				<description><![CDATA[The Foundation Laying ceemony was held for Anugraha Women&#8217;s College on 14-10-2012. Fo]]></description>
+								<content:encoded><![CDATA[<p>The Foundation Laying ceemony was held for Anugraha Women&#8217;s College on 14-10-2012. Fo</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
